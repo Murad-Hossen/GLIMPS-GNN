@@ -8,6 +8,7 @@
 | 2 | TugaYousif | run_2 | GAT | human | 0.49 | 0.55 | 0.39 | 0.28 | 2026-03-26 17:25 | [TugaAhmed](https://github.com/TugaAhmed) |
 | 3 | sanae | run_001 | GaphSage_3layers | human | 0.44 | 0.61 | 0.50 | 0.07 | 2026-03-14 13:11 | [SanaeZR](https://github.com/SanaeZR) |
 | 4 | Mubaraq | run_001 | GAT Test | human | 0.38 | 0.61 | 0.00 | 0.00 | 2026-03-08 22:12 | [Mubarraqqq](https://github.com/Mubarraqqq) |
+| 4 | Tasneem | run_1 | Tasneem-run_1 | unknown | 0.38 | 0.61 | 0.00 | 0.00 | 2026-04-01 17:43 | [participant](https://github.com/participant) |
 | 5 | Elhouiti_ikram | run_05 | My GNN V1 | human | 0.33 | 0.40 | 0.15 | 0.12 | 2026-03-08 22:12 | [El-Ikram](https://github.com/El-Ikram) |
 | 5 | organizers | advanced_gnn | Advanced GNN (GraphSAGE) | human | 0.33 | 0.40 | 0.15 | 0.12 | 2026-03-26 17:25 | [organizer_bot](https://github.com/organizer_bot) |
 | 6 | Murad | run_01 | GraphSAGE v1 | human | 0.31 | 0.39 | 0.38 | 0.93 | 2026-03-24 18:24 | [Murad-Hossen](https://github.com/Murad-Hossen) |
