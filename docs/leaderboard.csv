@@ -1,6 +1,7 @@
 rank,team,run_id,model,model_type,f1_score,accuracy,precision,recall,prediction_hash,submission_date,submitter,submitter_url,pr_number,submission_path
 1,Abderrahmane,run_01,GCN,human,0.5,0.54,0.39,0.35,58cbb3bd3d504443e70b1ccbf20f34a7106565d18669a0c4dc5d8fad10846af9,2026-03-13 15:08,abdksm,https://github.com/abdksm,,submissions/inbox/Abderrahmane/run_01/predictions.csv.enc
 2,TugaYousif,run_2,GAT,human,0.49,0.55,0.39,0.28,071632a8d4b8f9dd7e8f51abe7038ed570b11e98c2bd25e38f165b35ebc600c9,2026-03-26 17:25,TugaAhmed,https://github.com/TugaAhmed,,submissions/inbox/TugaYousif/run_2/predictions.csv.enc
+3,hadilaff,run_001,GNN,human,0.44,0.48,0.31,0.28,a080c7212df63a048ba0cbcf588e7536b1838cd66b083cc0cf37b9b711ab0c07,2026-04-03 21:27,hadilaff,https://github.com/hadilaff,,submissions/inbox/hadilaff/run_001/predictions.csv.enc
 3,sanae,run_001,GaphSage_3layers,human,0.44,0.61,0.5,0.07,6f0e8fd19176ae4f95375cd1d07f01a76403984f4819a0f1ff0e4e9c82e1cf19,2026-03-14 13:11,SanaeZR,https://github.com/SanaeZR,,submissions/inbox/sanae/run_001/predictions.csv.enc
 4,Mubaraq,run_001,GAT Test,human,0.38,0.61,0.0,0.0,18d499c2065bd3822162f6e3819dacad95708f9420e0d7a7ee194924d82f5925,2026-03-08 22:12,Mubarraqqq,https://github.com/Mubarraqqq,,submissions/inbox/Mubaraq/run_001/predictions.csv.enc
 4,Tasneem,run_1,Tasneem-run_1,unknown,0.38,0.61,0.0,0.0,7e2cd1ebbb3e38ea15dfe7e5b06ce0731ceb415c2ff3ad3f0059ccdc2246d0b0,2026-04-01 17:43,participant,https://github.com/participant,,submissions/inbox/Tasneem/run_1/predictions.csv.enc

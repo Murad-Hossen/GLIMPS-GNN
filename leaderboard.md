@@ -6,6 +6,7 @@
 |------|------|-----|-------|------|----------|----------|-----------|--------|------|-----------|
 | 1 | Abderrahmane | run_01 | GCN | human | 0.50 | 0.54 | 0.39 | 0.35 | 2026-03-13 15:08 | [abdksm](https://github.com/abdksm) |
 | 2 | TugaYousif | run_2 | GAT | human | 0.49 | 0.55 | 0.39 | 0.28 | 2026-03-26 17:25 | [TugaAhmed](https://github.com/TugaAhmed) |
+| 3 | hadilaff | run_001 | GNN | human | 0.44 | 0.48 | 0.31 | 0.28 | 2026-04-03 21:27 | [hadilaff](https://github.com/hadilaff) |
 | 3 | sanae | run_001 | GaphSage_3layers | human | 0.44 | 0.61 | 0.50 | 0.07 | 2026-03-14 13:11 | [SanaeZR](https://github.com/SanaeZR) |
 | 4 | Mubaraq | run_001 | GAT Test | human | 0.38 | 0.61 | 0.00 | 0.00 | 2026-03-08 22:12 | [Mubarraqqq](https://github.com/Mubarraqqq) |
 | 4 | Tasneem | run_1 | Tasneem-run_1 | unknown | 0.38 | 0.61 | 0.00 | 0.00 | 2026-04-01 17:43 | [participant](https://github.com/participant) |
