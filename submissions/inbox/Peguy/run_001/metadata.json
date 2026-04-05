@@ -1,0 +1,7 @@
+{
+  "team": "Peguy",
+  "run_id": "run_001",
+  "model_name": "GraphSAGE full-batch",
+  "model_type": "human",
+  "submitter": "KEMPEGUY"
+}
