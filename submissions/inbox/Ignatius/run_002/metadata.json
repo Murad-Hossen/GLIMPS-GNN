@@ -1,0 +1,7 @@
+{
+  "team": "Ignatius",
+  "run_id": "run_002",
+  "type": "human",
+  "model": "GraphSAGE",
+  "notes": "Refined The starter_code shared"
+}
