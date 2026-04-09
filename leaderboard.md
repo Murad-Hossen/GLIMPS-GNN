@@ -12,6 +12,7 @@
 | 5 | Mubaraq | run_001 | GAT Test | human | 0.38 | 0.61 | 0.00 | 0.00 | 2026-03-08 22:12 | [Mubarraqqq](https://github.com/Mubarraqqq) |
 | 5 | Tasneem | run_1 | Tasneem-run_1 | unknown | 0.38 | 0.61 | 0.00 | 0.00 | 2026-04-01 17:43 | [participant](https://github.com/participant) |
 | 6 | Ignatius | run_002 | Ignatius-run_002 | unknown | 0.34 | 0.35 | 0.24 | 0.30 | 2026-04-05 02:37 | [participant](https://github.com/participant) |
+| 6 | Idrees_Bhat | run_01 | Idrees_Bhat-run_01 | unknown | 0.34 | 0.35 | 0.23 | 0.28 | 2026-04-09 14:03 | [participant](https://github.com/participant) |
 | 7 | Elhouiti_ikram | run_05 | My GNN V1 | human | 0.33 | 0.40 | 0.15 | 0.12 | 2026-03-08 22:12 | [El-Ikram](https://github.com/El-Ikram) |
 | 7 | organizers | advanced_gnn | Advanced GNN (GraphSAGE) | human | 0.33 | 0.40 | 0.15 | 0.12 | 2026-03-26 17:25 | [organizer_bot](https://github.com/organizer_bot) |
 | 8 | Murad | run_01 | GraphSAGE v1 | human | 0.31 | 0.39 | 0.38 | 0.93 | 2026-03-24 18:24 | [Murad-Hossen](https://github.com/Murad-Hossen) |
