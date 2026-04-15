@@ -15,6 +15,7 @@
 | 8 | Ignatius | run_002 | Ignatius-run_002 | human | 0.34 | 0.35 | 0.24 | 0.30 | 2026-04-05 02:37 | [ignatiusbalayo](https://github.com/ignatiusbalayo) |
 | 8 | Idrees_Bhat | run_01 | Idrees_Bhat-run_01 | human | 0.34 | 0.35 | 0.23 | 0.28 | 2026-04-09 14:03 | [idrees11](https://github.com/idrees11) |
 | 9 | Elhouiti_ikram | run_05 | My GNN V1 | human | 0.33 | 0.40 | 0.15 | 0.12 | 2026-03-08 22:12 | [El-Ikram](https://github.com/El-Ikram) |
+| 9 | organizers | advanced_gnn | Advanced GNN (GraphSAGE) | human | 0.33 | 0.40 | 0.15 | 0.12 | 2026-04-15 18:45 | [organizer_bot](https://github.com/organizer_bot) |
 | 10 | Murad | run_01 | GraphSAGE v1 | human | 0.31 | 0.39 | 0.38 | 0.93 | 2026-03-24 18:24 | [Murad-Hossen](https://github.com/Murad-Hossen) |
 | 11 | AIkram | run_1 | AIkram-run_1 | human | 0.28 | 0.35 | 0.36 | 0.86 | 2026-03-19 17:14 | [AiIkram](https://github.com/AiIkram) |
 | 11 | Muhammad_Isah | run_01 | SAGEGNN | human | 0.28 | 0.39 | 0.39 | 1.00 | 2026-03-14 14:01 | [Muhammad0isah](https://github.com/Muhammad0isah) |
